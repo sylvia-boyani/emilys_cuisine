@@ -19,7 +19,7 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/Emily Pengo..png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/emlys-logo.png';
+import gericht from '../assets/emly-lgo.png';
 
 export default {
   bg,
